@@ -1,5 +1,5 @@
 ## Optimizer
-O objetivo desse plugin é melhorar a valociade de carregamento do wordpress, removendo requisições HTTP desnecessárias 
+O objetivo desse plugin é melhorar a velocidade de carregamento do wordpress, removendo requisições HTTP desnecessárias 
 
 ## Conteúdo
 
