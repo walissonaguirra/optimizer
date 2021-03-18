@@ -3,8 +3,8 @@ O objetivo desse plugin é melhorar a velocidade de carregamento do wordpress, r
 
 ## Conteúdo
 
-**Emojis** - Disable built-in emojis that loads large JavaScript, CSS and image files 👎
+**Emojis** - Desative emojis integrados que carregam arquivos grandes de JavaScript, CSS e imagem 👎
 
-**Head** - Clears out generated unwanted stuff from the wp_head hook. Such as feeds and WordPress version.
+**Head** - Limpa o material indesejado gerado no gancho wp_head. Como feeds e versão do WordPress.
 
-**REST API** - Disable the REST API
+**REST API** - Desative a API REST
