@@ -22,6 +22,8 @@ require_once "{$optimizer_dir}inc/rest-api.php";
 add_action( 'plugins_loaded', function() {
 	
 	if (current_user_can('administrator')) return;
+	
+	$optimizer_dir = plugin_dir_path(__FILE__);
 
 	require_once "{$optimizer_dir}inc/javascript.php";
 	
