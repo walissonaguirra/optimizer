@@ -3,9 +3,9 @@
  * Plugin Name:       Optimizer
  * Plugin URI:        https://github.com/walissonaguirra
  * Description:       Optimizer.
- * Version:           1.0.0
+ * Version:           1.1
  * Requires at least: 5.4
- * Requires PHP:      7.2
+ * Requires PHP:      7.0
  * Author:            Walisson Aguirra
  * Author URI:        https://github.com/walissonaguirra
  * License:           GPL v2 or later

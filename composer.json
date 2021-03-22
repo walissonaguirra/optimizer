@@ -1,0 +1,15 @@
+{
+  "name": "walissonaguirra/optimizer",
+  "description": "Melhorar a velocidade de carregamento do wordpress, removendo requisi\u0000\u0000es HTTP desnecess\u0000rias",
+  "keywords": ["wordpress", "plugin"],
+  "authors": [
+    {
+      "name": "walissonaguirra",
+      "email": "walisson.aguirra@gmail.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+  	"php": ">=7.0"
+  }
+}
